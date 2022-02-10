@@ -1,0 +1,11 @@
+plaintext: unencrypted message
+ciphertext: encrypted message
+
+a ciphertext can never be shorter than it's corresponding plaintext
+
+19th century wartime messages needed to be secret for three to four hours
+
+a permutation needs three criteria so be secure
+- the permutation should be determined by the key
+- different keys should result in different permutations
+- the permutation should look random
